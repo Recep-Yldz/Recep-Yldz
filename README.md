@@ -31,8 +31,4 @@ Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadec
 
 ---
 
-### 📫 Bana Ulaşın
-
-* **LinkedIn:** https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/
-
 > "En güvenli sistem, fişi çekik olandır; ama ben o fişi takıp sistemi savunmayı tercih ediyorum."
