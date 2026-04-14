@@ -21,7 +21,7 @@ Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadec
 | :--- | :--- |
 | **Diller** | C++, Dart (Flutter), Python |
 | **Donanım** | ESP8266, NodeMCU, Arduino, PCB Design (EasyEDA) |
-| **3D Prototipleme** | Fusion 360, Cura, OrcaSlicer |
+| **3D Prototipleme** | Fusion 360|
 | **Araçlar** | Git, GitHub, Linux (Kali/Ubuntu), MQTT |
 
 ---
