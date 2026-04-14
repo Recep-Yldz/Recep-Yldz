@@ -1,6 +1,6 @@
-# Merhaba, Ben Kemal! 👋
+# Merhaba, Ben Recep! 👋
 
-### 🚀 Siber Güvenlik Aspirantı | IoT Geliştirici | Maker
+### 🚀 Siber Güvenlik Meraklısı | IoT Geliştirici | Maker
 
 Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadece mutfağında değil, güvenlik katmanında da yer almayı hedefliyorum. Donanımı kendim tasarlıyor, yazılımı kendim kodluyor ve sistemin açıklarını kendim analiz ediyorum.
 
@@ -28,14 +28,11 @@ Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadec
 
 ### 📁 Öne Çıkan Projelerim
 
-* **[Akıllı Saksı Otomasyonu]:** Sensör verilerinin mapping algoritmasıyla işlendiği, siber güvenlik risk analizi yapılmış IoT sistemi.
-* **[Yumurta Toplayan Robot]:** Yüksek torklu mekanik tasarıma sahip, otonom hareket kabiliyetli robotik proje.
 
 ---
 
 ### 📫 Bana Ulaşın
 
-* **LinkedIn:** [Buraya LinkedIn Linkini Yapıştır]
-* **Discord:** [Varsa Discord Kullanıcı Adın]
+* **LinkedIn:** https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/
 
 > "En güvenli sistem, fişi çekik olandır; ama ben o fişi takıp sistemi savunmayı tercih ediyorum."
