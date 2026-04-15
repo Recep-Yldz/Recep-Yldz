@@ -54,7 +54,7 @@
 ---
 
 ### 📫 Contact
-* 📧 **Email:** [Your Email Address]
+* 📧 **Email:** r.recepyildiz@outlook.com
 * 🌐 **LinkedIn:** [linkedin.com/in/recep-yildiz](https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/)
 
 ---
