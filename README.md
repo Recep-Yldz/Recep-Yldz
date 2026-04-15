@@ -1,40 +1,62 @@
-# 🚀 Merhaba, Ben Recep! 👋
+# Recep Yıldız ---
 
-### **Siber Güvenlik Adayı | IoT Geliştirici | Sistem Mimarı**
-
-Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadece mutfağında değil, güvenlik katmanında da yer almayı hedefliyorum. Bir sistemin mekanik tasarımından PCB üretimine, yazılımından siber zafiyet analizine kadar her aşamasını uçtan uca yönetiyorum. **Tasarla, kodla, koru** felsefesini benimsiyorum.
-
----
-
-### 🛠️ Nelerle Uğraşıyorum?
-
-* **Gömülü Sistemler & IoT:** Mikrodenetleyiciler ve sensör füzyonu kullanarak, fiziksel veriyi dijital dünyaya aktaran akıllı otomasyon sistemleri ve otonom cihazlar geliştiriyorum.
-* **Donanım Tasarımı & Üretim:** Parametrik tasarım araçlarıyla mekanik prototipleme yapıyor ve özel devre kartı (PCB) tasarımlarıyla projelerimi endüstriyel boyuta taşıyorum.
-* **Yazılım Ekosistemi:** Cross-platform mobil uygulamalar (Flutter), donanım seviyesi programlama (C++) ve modern web arayüzleri inşa ediyorum.
-* **Siber Güvenlik:** IoT ekosistemleri üzerinde zafiyet analizleri, ağ güvenliği ve CTF çalışmalarıyla sistemleri daha dirençli hale getiriyorum.
+🚀 **About Me**
+* 🎓 **Information Technology Student** (Yazılım Dalı)
+* 🛡️ **Cybersecurity Aspirant** focused on IoT and network security
+* 🛠️ **Full-Stack Maker** building systems from PCB design to mobile apps
+* 🧠 Interested in **Methodological Doubt**, Philosophy, and System Architecture
 
 ---
 
-### 📊 Teknik Yetkinliklerim
+### 🛠️ Tech Stack
 
-| Alan | Teknolojiler & Araçlar |
-| :--- | :--- |
-| **Programlama** | C++,C#, Dart (Flutter), Python, HTML5 & CSS3 |
-| **Donanım & PCB** | Mikrodenetleyici Mimarileri (ESP/Ard), PCB Layout & Design |
-| **Sistem & Güvenlik** | Linux (Kali/Ubuntu), Ağ Güvenliği, IoT Pentest, MQTT |
-| **Üretim & Tasarım** | Parametrik Tasarım (3D), Additive Manufacturing (Hızlı Prototipleme) |
-| **Versiyon Kontrol** | Git, GitHub |
+#### 💻 Development & Architecture
+**C# (Object Oriented Programming)** • **ASP.NET MVC**
+**C++** • **Dart (Flutter)** • **Python**
+**SQL** • **HTML5 & CSS3**
+
+#### ⚙️ Hardware & Prototyping
+**ESP8266 & NodeMCU** • **PCB Design (EasyEDA)**
+**Parametric 3D Design** • **Additive Manufacturing**
+
+#### 🛡️ Cybersecurity & Tools
+**Kali Linux** • **Nmap / Metasploit / Burp Suite** • **MQTT Security**
+**Git & GitHub** • **Visual Studio / VS Code** • **Firebase**
 
 ---
 
-### 📁 Öne Çıkan Çalışmalarım
+### 📌 Featured Projects
 
+* 🌐 **ASP.NET MVC Web Projects:** Robust and scalable web applications developed with MVC architecture.
+* 🛡️ **Cybersecurity Labs:** Vulnerability analysis and defense strategies using Python and C# tools.
+* 🔗 **Integrated IoT Systems:** End-to-end autonomous projects featuring sensor fusion and mobile integration.
 
 ---
 
-### 📫 Benimle İletişime Geçin
+### 🎮 Specialized Skills
+* **OOP (Object Oriented Programming):** Writing clean, modular, and reusable code in C#.
+* **Web Development:** Creating dynamic web platforms with ASP.NET MVC and modern frontend technologies.
+* **3D Modeling & Production:** Mechanical part design and technical drawing for hardware housing.
+* **Mobile Development:** Cross-platform apps with Flutter & Provider.
 
-* **LinkedIn:** [Recep Yıldız](https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/)
+---
+
+### 📜 Certifications
+
+* 🌐 **HTML5 ile Web Geliştirme** — BTK Akademi
+  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_WEB_LINKI_BURAYA)
+
+* 🎨 **CSS Temelleri** — BTK Akademi
+  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_CSS_LINKI_BURAYA)
+
+* ⚙️ **C# ile Nesne Tabanlı Programlama** — BTK Akademi
+  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=C-Sharp&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_OOP_LINKI_BURAYA)
+
+---
+
+### 📫 Contact
+* 📧 **Email:** [E-posta Adresini Yaz]
+* 🌐 **LinkedIn:** [linkedin.com/in/recep-yildiz](https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/)
 
 ---
 
