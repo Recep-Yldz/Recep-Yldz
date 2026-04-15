@@ -1,7 +1,7 @@
 # Recep Yıldız ---
 
 🚀 **About Me**
-* 🎓 **Information Technology Student** (Yazılım Dalı)
+* 🎓 **Information Technology Student** (Software Development Major)
 * 🛡️ **Cybersecurity Aspirant** focused on IoT and network security
 * 🛠️ **Full-Stack Maker** building systems from PCB design to mobile apps
 * 🧠 Interested in **Methodological Doubt**, Philosophy, and System Architecture
@@ -16,7 +16,7 @@
 **SQL** • **HTML5 & CSS3**
 
 #### ⚙️ Hardware & Prototyping
-**ESP8266 & NodeMCU** • **PCB Design (EasyEDA)**
+**Microcontrollers (ESP/AVR)** • **PCB Design (EasyEDA)**
 **Parametric 3D Design** • **Additive Manufacturing**
 
 #### 🛡️ Cybersecurity & Tools
@@ -43,21 +43,21 @@
 
 ### 📜 Certifications
 
-* 🌐 **HTML5 ile Web Geliştirme** — BTK Akademi
-  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_WEB_LINKI_BURAYA)
+* 🌐 **HTML5 Web Development** — BTK Academy
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/html5_cert.pdf)
 
-* 🎨 **CSS Temelleri** — BTK Akademi
-  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_CSS_LINKI_BURAYA)
+* 🎨 **CSS Fundamentals** — BTK Academy
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/css_cert.pdf)
 
-* ⚙️ **C# ile Nesne Tabanlı Programlama** — BTK Akademi
-  <br>[<img src="https://img.shields.io/badge/Sertifikayı_Gör-000000?style=for-the-badge&logo=C-Sharp&logoColor=white&labelColor=333333" alt="Sertifikayı Gör">](SERFİTİKA_OOP_LINKI_BURAYA)
+* ⚙️ **Object Oriented Programming with C#** — BTK Academy
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=C-Sharp&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/csharp_oop_cert.pdf)
 
 ---
 
 ### 📫 Contact
-* 📧 **Email:** [E-posta Adresini Yaz]
+* 📧 **Email:** [Your Email Address]
 * 🌐 **LinkedIn:** [linkedin.com/in/recep-yildiz](https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/)
 
 ---
 
-> "En güvenli sistem, fişi çekik olandır; ama ben o fişi takıp sistemi savunmayı tercih ediyorum."
+> "The safest system is the one that's unplugged; but I'd rather plug it in and defend it."
