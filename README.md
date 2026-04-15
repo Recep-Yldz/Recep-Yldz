@@ -43,10 +43,9 @@
 
 ### 📜 Certifications
 * 🛡️ **Introduction to Cybersecurity**
-  
-  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](Siber_Güvenliğe_Giriş_Sertifika-1_page-0001.jpg)
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/Siber_Güvenliğe_Giriş_Sertifika-1_page-0001.jpg)
 * 🎣 **Social Engineering & Phishing**
-  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=PaloAltoNetworks&logoColor=white&labelColor=333333" alt="See Certificate">](Sosyal_Mühendislik_ve_Oltalama_Sertifika-1_page-0001.jpg)
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=PaloAltoNetworks&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/Sosyal_Mühendislik_ve_Oltalama_Sertifika-1_page-0001.jpg)
 ---
 
 ### 📫 Contact
