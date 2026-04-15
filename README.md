@@ -44,13 +44,12 @@
 ### 📜 Certifications
 
 * 🌐 **HTML5 Web Development** — BTK Academy
-  <br>[alt="See Certificate">](certificates/html5_cert.pdf)
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/html5_cert.pdf)
 
 * 🎨 **CSS Fundamentals** — BTK Academy
-  <br>[alt="See Certificate">](certificates/css_cert.pdf)
-
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/html5_cert.pdf)
 * ⚙️ **Object Oriented Programming with C#** — BTK Academy
-  <br>[alt="See Certificate">](certificates/csharp_oop_cert.pdf)
+  <br>[<img src="https://img.shields.io/badge/See_The_Certificate-000000?style=for-the-badge&logo=WebAuthn&logoColor=white&labelColor=333333" alt="See Certificate">](certificates/html5_cert.pdf)
 
 ---
 
