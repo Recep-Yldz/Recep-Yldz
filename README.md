@@ -1,33 +1,40 @@
-# Merhaba, Ben Recep! 👋
+# 🚀 Merhaba, Ben Recep! 👋
 
-### 🚀 Siber Güvenlik Meraklısı | IoT Geliştirici | Maker
+### **Siber Güvenlik Adayı | IoT Geliştirici | Sistem Mimarı**
 
-Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadece mutfağında değil, güvenlik katmanında da yer almayı hedefliyorum. Donanımı kendim tasarlıyor, yazılımı kendim kodluyor ve sistemin açıklarını kendim analiz ediyorum.
+Lise Bilişim Teknolojileri (Yazılım Dalı) öğrencisiyim. Teknolojinin sadece mutfağında değil, güvenlik katmanında da yer almayı hedefliyorum. Bir sistemin mekanik tasarımından PCB üretimine, yazılımından siber zafiyet analizine kadar her aşamasını uçtan uca yönetiyorum. **Tasarla, kodla, koru** felsefesini benimsiyorum.
 
 ---
 
 ### 🛠️ Nelerle Uğraşıyorum?
 
-* **Gömülü Sistemler & IoT:** ESP8266, Arduino ve çeşitli sensörlerle otonom sistemler (Akıllı Saksı, Robotik Projeler).
-* **3D Tasarım & Üretim:** Fusion 360 ile mekanik tasarım ve Elegoo Neptune 4 Pro ile yüksek hızlı (500mm/s) üretim.
-* **Yazılım:** C++, Arduino IDE, Python ve siber güvenlik odaklı scriptler.
-* **Siber Güvenlik:** Ağ güvenliği, IoT zafiyet analizleri ve CTF çalışmaları.
+* **Gömülü Sistemler & IoT:** Mikrodenetleyiciler ve sensör füzyonu kullanarak, fiziksel veriyi dijital dünyaya aktaran akıllı otomasyon sistemleri ve otonom cihazlar geliştiriyorum.
+* **Donanım Tasarımı & Üretim:** Parametrik tasarım araçlarıyla mekanik prototipleme yapıyor ve özel devre kartı (PCB) tasarımlarıyla projelerimi endüstriyel boyuta taşıyorum.
+* **Yazılım Ekosistemi:** Cross-platform mobil uygulamalar (Flutter), donanım seviyesi programlama (C++) ve modern web arayüzleri inşa ediyorum.
+* **Siber Güvenlik:** IoT ekosistemleri üzerinde zafiyet analizleri, ağ güvenliği ve CTF çalışmalarıyla sistemleri daha dirençli hale getiriyorum.
 
 ---
 
 ### 📊 Teknik Yetkinliklerim
 
-| Alan | Teknolojiler |
+| Alan | Teknolojiler & Araçlar |
 | :--- | :--- |
-| **Diller** | C++, Dart (Flutter), Python |
-| **Donanım** | ESP8266, NodeMCU, Arduino, PCB Design (EasyEDA) |
-| **3D Prototipleme** | Fusion 360|
-| **Araçlar** | Git, GitHub, Linux (Kali/Ubuntu), MQTT |
+| **Programlama** | C++,C#, Dart (Flutter), Python, HTML5 & CSS3 |
+| **Donanım & PCB** | Mikrodenetleyici Mimarileri (ESP/Ard), PCB Layout & Design |
+| **Sistem & Güvenlik** | Linux (Kali/Ubuntu), Ağ Güvenliği, IoT Pentest, MQTT |
+| **Üretim & Tasarım** | Parametrik Tasarım (3D), Additive Manufacturing (Hızlı Prototipleme) |
+| **Versiyon Kontrol** | Git, GitHub |
 
 ---
 
-### 📁 Öne Çıkan Projelerim
+### 📁 Öne Çıkan Çalışmalarım
 
+
+---
+
+### 📫 Benimle İletişime Geçin
+
+* **LinkedIn:** [Recep Yıldız](https://www.linkedin.com/in/recep-y%C4%B1ld%C4%B1z-084931373/)
 
 ---
 
